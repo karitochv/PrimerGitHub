@@ -1,0 +1,11 @@
+label{
+    background-color: powderblue;
+}
+
+article{
+    border-top: black 5px dashed;
+  border-bottom: blue 10px dotted;
+  border-left: red 5px solid;
+  padding: 3px 10px;
+  border-radius: 20px;
+}
