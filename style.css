@@ -1,5 +1,6 @@
 label{
     background-color: powderblue;
+    margin: 10px,10px,10px,10px;
 }
 
 article{
@@ -9,3 +10,5 @@ article{
   padding: 3px 10px;
   border-radius: 20px;
 }
+
+
