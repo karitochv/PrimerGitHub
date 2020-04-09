@@ -26,4 +26,8 @@ li{
   padding: 3px 10px;
   border-radius: 20px;
 }
+.btg{background-color:red;color:white;}
+.btg{background-color:white;border:2px solid red;color:red;}
+.btg{background-color:blue;color:white;width:120px;}
+.btg{background-color:green;color:white;font-size:1.2em;padding:12px;}
 
