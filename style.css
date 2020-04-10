@@ -20,5 +20,8 @@ article{
   padding: 3px 10px;
   border-radius: 20px;
 }
+.bt1{padding:6px;}
+.bt2{padding:6px;border-radius:10px;}
+.bt3{padding:6px;border-radius:50%;}
 
 
