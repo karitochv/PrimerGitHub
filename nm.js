@@ -11,3 +11,7 @@ function mostrarMensajeR3(){
 function mostrarMensajeK1(){
     alert('Modificado Ka');
     }
+function mostrarMensajeK2(){
+    alert('Modificado Ka2');
+    }
+    
