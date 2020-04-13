@@ -21,6 +21,9 @@ article{
   padding: 3px 10px;
   border-radius: 20px;
 }
+img {
+  width: 100%;
+}
 <<<<<<< HEAD
 a{
   border-top: black 5px dashed;
